@@ -18,9 +18,11 @@ Inspired by games like Pokémon Go, Pixel lets users explore their surroundings,
 
 - **DeFi Integration:** Pixel incorporates DeFi elements, allowing users to stake their pixel characters and earn rewards. API3 QRNG ensures that the staking rewards are distributed randomly, adding an element of surprise to the DeFi experience.
 
-### API3 QRNG
+### API3 QRNG Architecture
 
+![image](https://github.com/ChiefAni/Pixel/assets/159049551/f83a7b90-5818-4cdb-9291-184f1053e757)
 
+![image-1](https://github.com/ChiefAni/Pixel/assets/159049551/9e2d6a53-5d95-4b01-9835-3345017274be)
 
 ## Future Goals
 
